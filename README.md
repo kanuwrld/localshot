@@ -5,6 +5,10 @@
 A small, native macOS menu bar app that copies a selected area straight to your
 clipboard. No account, subscription, analytics, or network connection. MIT licensed.
 
+![LocalShot settings with a configurable capture shortcut and local preferences](assets/settings.png)
+
+The shortcut shown in the settings screenshot is user-configurable.
+
 ## Use
 
 1. Open LocalShot from `~/Applications`.
