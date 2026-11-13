@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key><string>app.localshot.LocalShot</string>
+    <key>CFBundleName</key><string>LocalShot</string>
+    <key>CFBundleDisplayName</key><string>LocalShot</string>
+    <key>CFBundleExecutable</key><string>LocalShot</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.2.0</string>
+    <key>CFBundleVersion</key><string>4</string>
+    <key>CFBundleDevelopmentRegion</key><string>en</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>NSScreenCaptureUsageDescription</key><string>LocalShot copies the area you select to your clipboard. Screenshots are never uploaded.</string>
+    <key>NSHumanReadableCopyright</key><string>LocalShot © 2026 LocalShot contributors. MIT License.</string>
+</dict>
+</plist>
